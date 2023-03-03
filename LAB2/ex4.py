@@ -1,0 +1,1 @@
+# Generati un html raport (fisier) cu cumparaturile din fisier initial
